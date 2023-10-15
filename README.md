@@ -13,7 +13,7 @@
 - 농가 현황 자료 제작 프로그램 실행 모습
 
 
-<img width="950" alt="농가자료엑셀제작프로그램 실행 모습" src="https://github.com/kwonkeonhyeong/hanwooFarmExcelReportProgram/assets/138849238/02f17e1e-9e15-4113-b83a-9cd6e224a076">
+<img width="949" alt="농가자료엑셀제작프로그램 실행 모습" src="https://github.com/kwonkeonhyeong/hanwooFarmExcelReportProgram/assets/138849238/c3795607-4968-482a-b087-f02439414645">
 
 
 - 완성된 농가 현황 Excel 자료
